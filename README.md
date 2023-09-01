@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer | AI engineer
 -------------------------------
 
-A devoted AI engineer specializing in Natural Language Processing (NLP). 
-A technical manager leading an AI team in a start-up company. 
-A co-founder of a company specializing in machine learning data annotation.
+A devoted AI engineer specializing in Natural Language Processing (NLP).<br>
+A technical manager leading an AI team in a start-up company.<br>
+A co-founder of a company specializing in machine learning data annotation.<br>
 
 * 🌍  I'm based in Taipei, Taiwan
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/hsiao-han-wu-694a53110/)
